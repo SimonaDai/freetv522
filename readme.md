@@ -1,3 +1,12 @@
+
+> **[注]：已完成部署**
+>
+> 网址：https://film.simonadai.fun/
+>
+> 密钥：宿舍号double 2次
+>
+> 一起快乐追剧吧🤩
+
 # LibreTV - 免费在线视频搜索与观看平台
 
 <div align="center">
@@ -5,6 +14,8 @@
   <br>
   <p><strong>自由观影，畅享精彩</strong></p>
 </div>
+
+
 
 ## 📺 项目简介
 
