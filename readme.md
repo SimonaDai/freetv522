@@ -3,7 +3,7 @@
 >
 > 网址：https://film.simonadai.fun/
 >
-> 密钥：宿舍号double 2次
+> 密钥：宿舍号
 >
 > 一起快乐追剧吧🤩
 
